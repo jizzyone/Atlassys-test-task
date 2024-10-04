@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Atlassys-test-task/static/css/main.6f70544b.css",
+    "main.js": "/Atlassys-test-task/static/js/main.4846a3fb.js",
+    "index.html": "/Atlassys-test-task/index.html",
+    "main.6f70544b.css.map": "/Atlassys-test-task/static/css/main.6f70544b.css.map",
+    "main.4846a3fb.js.map": "/Atlassys-test-task/static/js/main.4846a3fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f70544b.css",
+    "static/js/main.4846a3fb.js"
+  ]
+}
